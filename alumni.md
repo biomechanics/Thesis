@@ -1,1 +1,1 @@
-# Bisherige betreute (Supervisor) und/oder Begutachtete ($2^{nd}$ Referee) 
+Bisherige betreute (Supervisor) und/oder Begutachtete ($$2^{nd}$$ Referee) Arbeiten 
