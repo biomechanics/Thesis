@@ -1,5 +1,9 @@
 # Basic Infos zum Schreiben einer Thesis bei mir
-*Format* : Die Thesis wird in Markdown oder Latex geschrieben. Das gerne online via Overleaf oder einem anderen repository passieren.
+- Die Thesis wird in Markdown oder Latex geschrieben. Das kann/soll gerne online via Overleaf oder einem anderen repository passieren.
+- Die Thesis soll, muss aber nicht in english geschrieben werden.
+- Die Inhaltliche Gliederung orientiert sich sehr strikt an einem Standardpaper (Manuscript) wie es in Pubmed oder der IEEE zu finden ist. Lediglich zwischen der Einleitung und den Methoden wird ein kuzes Kapitel _Theoretical Background_ eingeschoben welches im Falle einer Submission leicht extrahiert werden kann.
+
+
 
 
 
