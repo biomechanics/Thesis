@@ -7,4 +7,4 @@
 # Zeitschiene
 
 ## Möglichkeit 1
-Sie haben eine interesante Fragestellung die Sie nicht mehr los läßt. Sie glauben, dass das Thema in mein Forschungsprofil ([Researchgate](https:/researchgate.com) oder [DSHS - Forschungsinformationssystem](https://fis.dshs-koeln.de/portal/de/persons/bjoern-braunstein(1be5c71d-3cc0-46c5-bf73-4b077e3c0cb2).html)) past und ich die Arbeit betreuen kann und will. 
+Sie haben eine interesante Fragestellung die Sie nicht mehr los läßt. Sie glauben, dass das Thema in mein Forschungsprofil ([Researchgate](https://researchgate.net) oder [DSHS - Forschungsinformationssystem](https://fis.dshs-koeln.de/portal/de/persons/bjoern-braunstein(1be5c71d-3cc0-46c5-bf73-4b077e3c0cb2).html)) past und ich die Arbeit betreuen kann und will. 
