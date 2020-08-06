@@ -17,4 +17,5 @@ Sie haben zum Beispiel eine Veranstaltung bei mir gehabt in der ich erwähnt hab
 
 
 # Zeitschiene
-Sie sind sich sicher dass Sie mit den oben stehenden Basics zutreffen bzw. sich zutrauen diese Skillss zu erlernen und eine der b
+Rechnen Sie bitte von gewünschten Abgabetermin rückwärts in Monaten. Als Backup bzw. Safety hat sich ein Puffer von 30% bewährt.
+Sollte eine experimentelle Arbeit für Sie in Frage kommen bei der Sie die Daten erheben und auswerten ist eine Rücksprache mit mir bzgl. realistischer Einschätzung sinnvoll. 
