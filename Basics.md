@@ -1,11 +1,11 @@
 # Möglichkeit 1
-Sie haben eine interesante Fragestellung die Sie nicht mehr los läßt. Sie glauben, dass das Thema in mein Forschungsprofil ([Researchgate](https://www.researchgate.net/profile/Bjoern_Braunstein) oder [DSHS - Forschungsinformationssystem](https://fis.dshs-koeln.de/portal/de/persons/bjoern-braunstein(1be5c71d-3cc0-46c5-bf73-4b077e3c0cb2).html)) passt und ich die Arbeit inhaltlich betreuen kann. Dann Bitte melden.
+Sie haben eine interesante Fragestellung die Sie nicht mehr los läßt. Sie glauben, dass das Thema in mein Forschungsprofil ([Researchgate](https://www.researchgate.net/profile/Bjoern_Braunstein) oder [DSHS - Forschungsinformationssystem](https://fis.dshs-koeln.de/portal/de/persons/bjoern-braunstein(1be5c71d-3cc0-46c5-bf73-4b077e3c0cb2).html)) passt und ich die Arbeit inhaltlich betreuen kann. Bitte melden.
 
 # Möglichkeit 2
-Sie haben zum Beispiel eine Veranstaltung bei mir gehabt in der ich erwähnt habe, dass ich für ein spezifisches Topic eine Thesis zu vergeben habe. Eventuell haben Sie dieses auch von einer dritten Person erfahren und denken .... Genau mein Ding ... ! Dann Bitte melden.
+Sie haben zum Beispiel eine Veranstaltung bei mir gehabt in der ich erwähnt habe, dass ich für ein spezifisches Topic eine Thesis zu vergeben habe. Eventuell haben Sie dieses auch von einer dritten Person erfahren und denken .... Genau mein Ding ... ! Bitte melden.
 
 # Zeitschiene
-Rechnen Sie bitte von gewünschten Abgabetermin rückwärts in Monaten. Als Backup bzw. Safety hat sich ein Puffer von 30% bewährt.
+Rechnen Sie bitte von gewünschten Abgabetermin rückwärts in Monaten. Als Backup bzw. Safety hat sich ein Puffer von 30% bewährt. Sollte das zum Zeitpunkt der Kontaktaufnahme noch realistisch sein?  Bitte melden.
 Sollte eine experimentelle Arbeit für Sie in Frage kommen bei der Sie die Daten erheben und auswerten ist eine Rücksprache mit mir bzgl. realistischer Einschätzung sinnvoll. 
 
 # Form
