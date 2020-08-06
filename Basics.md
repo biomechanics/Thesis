@@ -12,6 +12,6 @@ Sollte eine experimentelle Arbeit für Sie in Frage kommen bei der Sie die Daten
 - Die Thesis wird in Markdown oder Latex geschrieben. Das kann/soll gerne online via [Overleaf](https://overleaf.com) oder einem anderen repository passieren.
 - Die Thesis soll, muss aber nicht in english geschrieben werden.
 - Die Inhaltliche Gliederung orientiert sich sehr strikt an einem Standardpaper (Manuscript) wie es in [Pubmed](http://pubmed.gov) oder der [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp) zu finden ist. Lediglich zwischen der Einleitung und den Methoden wird ein kuzes Kapitel _'Theoretical Background'_ eingeschoben welches im Falle einer Submission leicht extrahiert werden kann.
-- Die Seitenzahl in _'Wordseiten gerechnet'_ entspricht in der Regel 35-50.
+- Die Seitenzahl in _'Wordseiten gerechnet'_ entspricht in der Regel 35-45.
 - In Wörtern ist das ca. 10.000 (ohne Referenzen, Bild- und Tabellenbeschriftungen)
 - Ein Template kann ich Ihnen stellen wenn gewünscht
