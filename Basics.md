@@ -25,5 +25,6 @@ Sollte eine experimentelle Arbeit für Sie in Frage kommen bei der Sie die Daten
 - Prozessierung der Daten und Zusammenstellung der Ergebnisse
 - Schreiben der Ergebnisse in der Thesis
 - Erstellung des Exposse bzw. Einreichung des Thesisantrag (ca. 8 Wochen vor dem geplanten Abgabetermin)
-- 
+- Abgabe der Thesis beim Prüfungsamt mit Nennung des Erstgutachters sowie dem Vorschlag eines Zweitgutachters
+- ca. 1-2 Wochen nach der Abgabe gelangt die Thesis in der Regel beim Erstgutachter
 
